@@ -1,0 +1,10 @@
+C:\Users\Lukas\Documents\TortoiseGit\GitTest\bin\Debug\GitTest.exe.config
+C:\Users\Lukas\Documents\TortoiseGit\GitTest\bin\Debug\GitTest.exe
+C:\Users\Lukas\Documents\TortoiseGit\GitTest\bin\Debug\GitTest.pdb
+C:\Users\Lukas\Documents\TortoiseGit\GitTest\obj\Debug\GitTest.csproj.AssemblyReference.cache
+C:\Users\Lukas\Documents\TortoiseGit\GitTest\obj\Debug\GitTest.Form1.resources
+C:\Users\Lukas\Documents\TortoiseGit\GitTest\obj\Debug\GitTest.Properties.Resources.resources
+C:\Users\Lukas\Documents\TortoiseGit\GitTest\obj\Debug\GitTest.csproj.GenerateResource.cache
+C:\Users\Lukas\Documents\TortoiseGit\GitTest\obj\Debug\GitTest.csproj.CoreCompileInputs.cache
+C:\Users\Lukas\Documents\TortoiseGit\GitTest\obj\Debug\GitTest.exe
+C:\Users\Lukas\Documents\TortoiseGit\GitTest\obj\Debug\GitTest.pdb
